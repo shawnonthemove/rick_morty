@@ -14,7 +14,7 @@ export default function Pagination({info, pageNumber, setPageNumber}) {
 
     return (
         <>
-        <style jsx>
+        <style>
         {`
         a {
             color: white; text-decoration: none;
